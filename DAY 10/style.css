@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#jeet{
+    height: 30px;
+}
+.col-2{
+    border: 2px solid red;
+    display: flex;
+    justify-content: center;
+}
+#navbar{
+    font-size: 17px;
+}
+#nav{
+    font-size: 23px;
+}
+#text{
+    font-size: 17px;
+}
+#jeet-1{
+    width: 10%;
+}

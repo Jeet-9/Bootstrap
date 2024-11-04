@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#logo{
+    height: 55px;
+    width: 190px;
+}
+#nav{
+    background-color: black;
+}
+.col-1{
+    border: 2px solid transparent;
+}
+.col-2{
+    border: 2px solid transparent;
+}
+#jeet{
+    background-color: #212121;
+}
+#search-1{
+    padding-top: 10px;
+}
+.col-5{
+    border: 2px solid transparent;
+}
+#icon-1{
+    color: white;
+    font-size: 17px;
+}
+#icon-2{
+    color: white;
+    font-size: 20px;
+    padding-top: 22px;
+    margin-left: 10px;
+}
+#navbar{
+    background-color: #141414;
+}
+.text-1{
+    color: white;
+    font-size: 13px;
+    margin-top: 10px;
+    text-align: center;
+}

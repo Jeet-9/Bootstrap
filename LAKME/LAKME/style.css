@@ -1,0 +1,29 @@
+.col-1{
+    /* border: 1px solid black; */
+}
+.col-1 h3 span img{
+    border: 2px solid rgb(250,210,152);
+}
+#bt1{
+    background-color: rgb(212,176,124);
+    border: 1px solid rgba(255, 0, 0, 0.397);
+    border-radius: 20px;
+}
+#card{
+    border: 3px solid rgb(250,210,152) ;
+}
+.n1{
+    border: 1px solid ;
+    width: 15rem;
+    height:1px;
+}
+#bt2{
+    border: 2px solid rgb(144,25,19);
+    color: rgb(144,25,19);
+}
+#border{
+    border: 3px solid;
+    border-color: rgb(250,210,152);
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+}

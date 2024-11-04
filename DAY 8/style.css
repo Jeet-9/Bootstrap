@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.nav-item{
+    margin-left: 10px;
+    color: black;
+}
+.carousel-inner{
+    height: 600px;
+}
+#text{
+    margin-top: -500px;
+}
+.heading{
+    font-size: 60px;
+    font-weight: 600;
+}
+.heading-1{
+    font-size: 18px;
+}
+.heading-2{
+    background: transparent;
+    border: 3px solid white;
+    color: white;
+    height: 50px;
+    width: 130px;
+    border-radius: 6px;
+    word-spacing: 2px;
+}
+.heading-2:hover{
+    color: black;
+    background-color: white;
+    transition: 0.3s ease-in-out;
+}
+#j2{
+    height: 550px;
+    width: 610px;
+    margin-top: 80px;
+}
+#text-2{
+    margin-top: 80px;
+}
+.text-3{
+    color: #9393A1;
+    font-size: 20px;
+    margin-top: 5px;
+}
+#jeet{
+    margin-left: 760px;
+    margin-top: -550px;
+}
