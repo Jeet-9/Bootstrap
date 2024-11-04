@@ -1,0 +1,123 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#logo{
+    font-size: 25px;
+    color: #007BFF;
+    font-weight: 900;
+}
+#navbar{
+    position: fixed;
+}
+.nav-item{
+    margin-left: 30px;
+}
+#j1:hover{
+    color: #007BFF;
+}
+#hero{
+    height: 750px;
+    width: 100%;
+    position: relative;
+}
+#title{
+    position: absolute;
+    top: 340px;
+    text-align: center;
+    color: black;
+    border: 2px solid transparent;
+}
+#title h1{
+    font-size: 50px;
+    font-weight: 800;
+}
+#button{
+    height: 60px;
+    width: 160px;
+    border-radius: 60px;
+    border: none;
+    color: white;
+     background-color: #007BFF;
+}
+#button:hover{
+    background-color: black;
+    color: white;
+    transition: 0.4s;
+}
+.col-12{
+    border: 2px solid transparent;
+}
+#heading{
+    border: 2px solid transparent;
+    text-align: center;
+    color: #007BFF;
+    font-weight: 900;
+}
+.col-4{
+    border: 2px solid transparent;
+}
+#j2{
+    height: 400px;
+    width: 490px;
+    margin-top: 20px;
+}
+#title-2 h1{
+    font-size: 30px;
+    font-weight: 400;
+}
+#title-2 h2{
+    font-size: 18px;
+    margin-top: 20px;
+    font-weight: 400;
+    color: #808080;
+}
+#check{
+    margin-top: 30px;
+    color: #71BC42;
+}
+#head-1{
+    color: #808080;
+    text-align: center;
+    font-size: 25px;
+}
+#space{
+    margin-left: 90px;
+}
+#review{
+    height: 250px;
+    width: 250px;
+}
+#title-3{
+    font-size: 20px;
+}
+#title-4{
+    font-size: 14px;
+    color: #808080;
+    letter-spacing: 1px;
+}
+#review-1{
+    height: 250px;
+    width: 250px;
+    margin-left: 30px;
+}
+#review-2{
+    height: 250px;
+    width: 250px;
+    margin-left: 50px;
+}
+#review-3{
+    height: 250px;
+    width: 250px;
+    margin-left: 80px;
+}
+#jeet{
+    margin-top: 40px;
+}
+#jeet-1{
+    margin-top: 100px;
+}
+#jeet-2{
+    margin-top: 100px;
+}

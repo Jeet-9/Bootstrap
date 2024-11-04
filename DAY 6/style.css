@@ -1,0 +1,79 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.offcanvas-body{
+    /* border: 2px solid red; */
+}
+.col-12{
+    border: 2px solid transparent;
+}
+.col-12 h1{
+    font-size: 70px;
+    font-weight: 800;
+    word-spacing: 5px;
+    letter-spacing: 2px;
+}
+#heading{
+    margin-top: 90px;
+}
+#about{
+    border: 2px solid transparent;
+    margin-top: 200px;
+}
+.col-5{
+    border: 2px solid transparent;
+}
+.col-5 h5{
+    font-weight: 400;
+}
+.col-3{
+    border: 2px solid transparent;
+}
+#text{
+    color: #252837;
+    font-weight: 700;
+}
+#link:hover{
+    text-decoration: none;
+    transition: 0.5s;
+}
+#link-1:hover{
+    color: #EF1E64;
+    transition: 0.5s;
+}
+#section{
+    border: 2px solid transparent;
+    margin-top: 300px;
+    background-color: #F8F9FA;
+}
+.line{
+    height: 2px;
+    width: 50px;
+    margin-top: 40px;
+    margin-left: 160px;
+    border: 2px solid #EF1E64;
+}
+#h5{
+    font-size: 16px;
+}
+#i1{
+    height: 400px;
+    width: 500px;
+}
+#button{
+    height: 40px;
+    width: 140px;
+    background-color: transparent;
+    color: white;
+    border: none;
+}
+#a1{
+    font-size: 20px;
+    color: #EF1E64;
+}
+#h1{
+    font-weight: 500;
+    font-size: 14.5px;
+}
